@@ -1,0 +1,8 @@
+.Python
+.ipynb_checkpoints/
+
+bin/
+lib/
+include/
+man/
+share/
